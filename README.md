@@ -130,51 +130,18 @@ Graphic Design | Report Writing | System Architecture
 ---
 
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-### 🗓️ GitHub Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhndrncrz&theme=react-dark&bg_color=0D1117&hide_border=true)
-
-### 🐍 Contribution Snake
-![Snake Animation](https://github.com/jhndrncrz/jhndrncrz/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-
-### 📈 GitHub Overview
-<img src="https://github-readme-stats.vercel.app/api?username=jhndrncrz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhndrncrz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170px" />
-
-<br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=jhndrncrz&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-<br>
-
-### 🏆 Trophy Cabinet
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jhndrncrz&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 🛠️ Weekly Coding Activity
-<div align="center">
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jhndrncrz&theme=dark&hide_border=true&layout=compact)
-
-</div>
-
----
 
 
 ## 💡 Highlighted Projects
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jhndrncrz&repo=jhndrncrz&theme=dark&hide_border=true)](https://github.com/jhndrncrz/jhndrncrz)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jhndrncrz&repo=project-alpha&theme=dark&hide_border=true)](https://github.com/jhndrncrz)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jhndrncrz&repo=jhndrncrz&theme=dark&hide_border=true)](https://github.com/jhndrncrz/jhndrncrz)
+
+<!-- Add more projects here
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=jhndrncrz&repo=project-alpha&theme=dark&hide_border=true)](https://github.com/jhndrncrz/project-alpha)
+-->
 
 *More exciting projects are on the way! 🚀*
 
@@ -182,29 +149,7 @@ Graphic Design | Report Writing | System Architecture
 
 ---
 
-## 📝 Latest Insights
 
-> "The best way to predict the future is to invent it." - Alan Kay
-
-### Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### Top Contributions
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=jhndrncrz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🎵 Digital Presence
-
-<div align="center">
-
-| 🎧 Currently Grooving To | 🎮 Discord Status |
-|:---:|:---:|
-| [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/jhndrncrz) | [![Discord](https://lanyard.constantin.io/api/jhndrncrz)](https://discord.com/users/jhndrncrz) |
-
-</div>
-
----
 
 ## 🤝 Let's Collaborate
 
@@ -235,13 +180,28 @@ If you find value in my work and would like to support me:
 
 <div align="center">
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/jhndrncrz">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhndrncrz&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhndrncrz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhndrncrz/jhndrncrz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhndrncrz/jhndrncrz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jhndrncrz/jhndrncrz/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<div align="center">
+
 ### 📈 Profile Views
-[![](https://visitcount.itsvg.in/api?id=jhndrncrz&icon=0&color=6)](https://visitcount.itsvg.in)
-
-### Made with ❤️ by Adrian Hernandez
-
-*Last updated: January 2026*
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=jhndrncrz&style=flat-square&color=blue)
 
 </div>
