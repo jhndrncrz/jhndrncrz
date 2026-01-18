@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Adrian%20Cruz&fontSize=70&animation=fadeIn&fontAlignY=38)
-
 # 💫 Adrian Cruz
 
 ### Full-Stack Developer | Creative Technologist | Open Source Enthusiast
